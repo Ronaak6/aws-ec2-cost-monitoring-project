@@ -17,4 +17,3 @@
 
 ## 📸 Screenshots
 - Instance launch (On-Demand & Spot)
-
